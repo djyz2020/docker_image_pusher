@@ -1,3 +1,4 @@
+nginx
 milvusdb/milvus
 
 #支持私库
