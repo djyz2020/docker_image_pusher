@@ -1,6 +1,7 @@
-nginx
-milvusdb/milvus
-
-#支持私库
 #支持指定架构
 #--platform=linux/arm64
+
+milvusdb/milvus:latest
+mintplexlabs/anythingllm:latest --platform=linux/arm64
+mintplexlabs/anythingllm:latest --platform=linux/amd64
+
