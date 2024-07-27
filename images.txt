@@ -1,3 +1,4 @@
 milvusdb/milvus:latest
 mintplexlabs/anythingllm:latest
-
+xprobe/xinference:v0.13.3-cpu
+xprobe/xinference:v0.13.3
