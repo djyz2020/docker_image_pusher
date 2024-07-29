@@ -5,4 +5,4 @@
 # neo4j:5.22.0-enterprise
 # neo4j:5.22.0
 
-ollama/ollama:v0.3.0
+ollama/ollama:latest
