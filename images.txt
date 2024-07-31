@@ -4,5 +4,8 @@
 # xprobe/xinference:v0.13.3
 # neo4j:5.22.0-enterprise
 # neo4j:5.22.0
+# ollama/ollama:latest
 
-ollama/ollama:latest
+memcached:1.6
+mariadb:10.5
+seafileltd/seafile-mc:11.0-latest
