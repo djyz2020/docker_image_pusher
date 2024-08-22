@@ -8,5 +8,6 @@
 # memcached:1.6
 # mariadb:10.5
 # seafileltd/seafile-mc:11.0-latest
+# pgvector/pgvector:pg16
 
-pgvector/pgvector:pg16
+robomongo/robomongo
