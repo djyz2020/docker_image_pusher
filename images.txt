@@ -10,4 +10,4 @@
 # seafileltd/seafile-mc:11.0-latest
 # pgvector/pgvector:pg16
 
-arm64v8/mongodb:latest
+arm64v8/mongo:latest
