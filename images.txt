@@ -10,4 +10,4 @@
 # seafileltd/seafile-mc:11.0-latest
 # pgvector/pgvector:pg16
 
-openjdk:8
+arm64v8/openjdk:8-jdk-alpine
