@@ -11,4 +11,4 @@
 # pgvector/pgvector:pg16
 # arm64v8/openjdk:8-jdk-alpine
 
-sentinel-dashboard:1.8.0
+bladex/sentinel-dashboard:1.8.0
