@@ -11,4 +11,8 @@
 # pgvector/pgvector:pg16
 # arm64v8/openjdk:8-jdk-alpine
 
-bladex/sentinel-dashboard:1.8.0
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.7
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
