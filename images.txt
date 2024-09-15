@@ -15,5 +15,6 @@
 # langgenius/dify-sandbox:0.2.7
 # ubuntu/squid:latest
 # semitechnologies/weaviate:1.19.0
+# node:20.11-alpine3.19
 
-node:20.11-alpine3.19
+langgenius/dify-web
