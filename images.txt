@@ -18,4 +18,4 @@
 # node:20.11-alpine3.19
 # langgenius/dify-web
 
-cclient/ubuntu-vnc-xfce-chromium-g3:vnc-novnc:latest
+accetto/ubuntu-vnc-xfce
