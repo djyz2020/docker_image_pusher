@@ -19,7 +19,7 @@
 # langgenius/dify-web
 # jlesage/firefox
 #kasmtech/kasm-browser
+#jupyter/scipy-notebook
 
-jupyter/scipy-notebook
-#theiaide/theia
+theiaide/theia
 #selenium/standalone-chrome
