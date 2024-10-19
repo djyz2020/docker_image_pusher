@@ -20,6 +20,6 @@
 # jlesage/firefox
 #kasmtech/kasm-browser
 #jupyter/scipy-notebook
+#theiaide/theia
 
-theiaide/theia
-#selenium/standalone-chrome
+selenium/standalone-chrome
