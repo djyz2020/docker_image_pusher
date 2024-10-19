@@ -17,5 +17,9 @@
 # semitechnologies/weaviate:1.19.0
 # node:20.11-alpine3.19
 # langgenius/dify-web
+# jlesage/firefox
 
- jlesage/firefox
+kasmtech/kasm-browser
+jupyter/scipy-notebook
+theiaide/theia
+selenium/standalone-chrome
