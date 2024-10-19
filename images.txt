@@ -18,8 +18,8 @@
 # node:20.11-alpine3.19
 # langgenius/dify-web
 # jlesage/firefox
+#kasmtech/kasm-browser
 
-kasmtech/kasm-browser
-#jupyter/scipy-notebook
+jupyter/scipy-notebook
 #theiaide/theia
 #selenium/standalone-chrome
