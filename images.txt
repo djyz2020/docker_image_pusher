@@ -21,5 +21,6 @@
 #kasmtech/kasm-browser
 #jupyter/scipy-notebook
 #theiaide/theia
+#selenium/standalone-chrome
 
-selenium/standalone-chrome
+eosphorosai/dbgpt:latest
