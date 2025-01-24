@@ -22,5 +22,6 @@
 #jupyter/scipy-notebook
 #theiaide/theia
 #selenium/standalone-chrome
+#eosphorosai/dbgpt:latest
 
-eosphorosai/dbgpt:latest
+apache/rocketmq:5.3.1
