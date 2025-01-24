@@ -25,4 +25,4 @@
 #eosphorosai/dbgpt:latest
 #apache/rocketmq:5.3.1
 
-foxiswho/rocketmq-console:latest
+styletang/rocketmq-console:latest
