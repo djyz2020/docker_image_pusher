@@ -28,6 +28,8 @@
 #apache/rocketmq:4.9.3
 #langgenius/dify-web:latest
 
-milvusdb/milvus:v2.4.6
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-quay.io/coreos/etcd:v3.5.5
+#milvusdb/milvus:v2.4.6
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#quay.io/coreos/etcd:v3.5.5
+
+langgenius/dify-web
