@@ -31,5 +31,7 @@
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #quay.io/coreos/etcd:v3.5.5
 #langgenius/dify-web:0.8.0
+#localai/localai:latest-cpu
 
-localai/localai:latest-cpu
+localai/localai:latest-gpu-nvidia-cuda-12
+localai/localai:latest
