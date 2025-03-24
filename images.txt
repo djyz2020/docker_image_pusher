@@ -34,5 +34,6 @@
 #localai/localai:latest-cpu
 #localai/localai:latest-gpu-nvidia-cuda-12
 #localai/localai:latest
+#mysql:8.0.23
 
-mysql:8.0.23
+langgenius/dify-web:0.15.3
