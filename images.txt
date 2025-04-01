@@ -36,5 +36,6 @@
 #localai/localai:latest
 #mysql:8.0.23
 #langgenius/dify-web:0.15.3
+#nacos/nacos-server:v2.1.2
 
-nacos/nacos-server:v2.1.2
+mysql:8.0.31
