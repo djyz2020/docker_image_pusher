@@ -39,5 +39,6 @@
 #nacos/nacos-server:v2.1.2
 #mysql:8.0.31
 #python:3.10
+#vllm/vllm-openai:latest
 
-vllm/vllm-openai:latest
+vllm/vllm-openai:cuda12.3
