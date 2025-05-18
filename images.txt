@@ -38,5 +38,6 @@
 #langgenius/dify-web:0.15.3
 #nacos/nacos-server:v2.1.2
 #mysql:8.0.31
+#python:3.10
 
-python:3.10
+vllm/vllm-openai:latest
