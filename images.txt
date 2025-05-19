@@ -41,5 +41,7 @@
 #python:3.10
 #vllm/vllm-openai:latest
 #vllm/vllm-openai:cuda12.3
+#node:20-alpine3.20
 
-node:20-alpine3.20
+vllm/vllm-openai:v0.7.3
+
