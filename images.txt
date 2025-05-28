@@ -47,8 +47,9 @@
 #langgenius/dify-web:1.3.0
 #langgenius/dify-web:0.15.4
 #langgenius/dify-sandbox:0.2.12
+#langgenius/dify-web:1.4.1
 
-langgenius/dify-web:1.4.1
+langgenius/dify-plugin-daemon:0.1.1-local
 
 
 
