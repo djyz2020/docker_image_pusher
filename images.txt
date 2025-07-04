@@ -51,9 +51,9 @@
 #langgenius/dify-plugin-daemon:0.1.1-local
 #pytorch/pytorch:1.13.0-cuda11.6-cudnn8-runtime
 #pytorch/pytorch:2.7.0-cuda11.8-cudnn9-runtime
+#elasticsearch:8.6.0
+#kibana:8.6.0
 
-elasticsearch:8.6.0
-kibana:8.6.0
-
+lmsysorg/sglang:v0.4.7-cu124
 
 
