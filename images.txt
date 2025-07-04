@@ -53,7 +53,7 @@
 #pytorch/pytorch:2.7.0-cuda11.8-cudnn9-runtime
 #elasticsearch:8.6.0
 #kibana:8.6.0
+#lmsysorg/sglang:v0.4.7-cu124
 
-lmsysorg/sglang:v0.4.7-cu124
-
+mineru-sglang:latest
 
