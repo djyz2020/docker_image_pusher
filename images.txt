@@ -55,6 +55,6 @@
 #kibana:8.6.0
 #lmsysorg/sglang:v0.4.7-cu124
 #mineru-sglang:latest
+#python:3.10-slim-bookworm
 
-python:3.10-slim-bookworm
-
+zxwei/mineru-api-full:2.1.0
