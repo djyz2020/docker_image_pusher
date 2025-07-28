@@ -57,6 +57,7 @@
 #mineru-sglang:latest
 #python:3.10-slim-bookworm
 #zxwei/mineru-api-full:2.1.0
+#elasticsearch:8.14.0
+#kibana:8.14.0
 
-elasticsearch:8.14.0
-kibana:8.14.0
+mher/flower:2.0.1
