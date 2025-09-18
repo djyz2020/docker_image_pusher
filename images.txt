@@ -63,5 +63,5 @@
 #python:3.10-slim-bullsey
 #pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
 
-quay.io/dante-cloud/nacos-server:v2.4.3
+xfishup/nacos-server:2.2.3-postgresql
 
