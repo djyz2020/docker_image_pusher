@@ -62,6 +62,7 @@
 #mher/flower:2.0.1
 #python:3.10-slim-bullsey
 #pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
+#elasticsearch:8.14.3
 
-elasticsearch:8.14.3
+ghcr.io/spring-ai-alibaba/lynxe:v4.7.0
 
