@@ -64,7 +64,8 @@
 #pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
 #elasticsearch:8.14.3
 #flowise/flowise
+#flowiseai/flowise
 
-flowiseai/flowise
+python:3.11-slim
 
 
