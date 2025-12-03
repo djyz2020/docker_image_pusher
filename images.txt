@@ -65,7 +65,8 @@
 #elasticsearch:8.14.3
 #flowise/flowise
 #flowiseai/flowise
+#python:3.11-slim
 
-python:3.11-slim
+docker pull cosyvoice/official:latest
 
 
