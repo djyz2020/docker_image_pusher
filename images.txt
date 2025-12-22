@@ -68,8 +68,9 @@
 #python:3.11-slim
 #cosyvoice/official:latest
 #harryliu888/cosyvoice:latest
+#bobui/cosyvoice:h20_v2.20250801
 
-bobui/cosyvoice:h20_v2.20250801
+kibana:8.12.0
 
 
 
