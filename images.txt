@@ -78,7 +78,7 @@ supabase/gotrue:v2.115.0
 postgrest/postgrest:v11.2.0
 supabase/realtime:v2.25.0
 supabase/storage-api:v0.42.0
-supabase/meta:v0.71.0
+supabase/postgres-meta:v0.71.0
 
 
 
