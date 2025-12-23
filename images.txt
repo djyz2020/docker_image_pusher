@@ -69,8 +69,19 @@
 #cosyvoice/official:latest
 #harryliu888/cosyvoice:latest
 #bobui/cosyvoice:h20_v2.20250801
+#kibana:8.12.0
 
-kibana:8.12.0
+postgres:15
+supabase/studio:latest
+kong:2.8
+supabase/gotrue:v2.115.0
+postgrest/postgrest:v11.2.0
+supabase/realtime:v2.25.0
+supabase/storage-api:v0.42.0
+supabase/meta:v0.71.0
+
+
+
 
 
 
