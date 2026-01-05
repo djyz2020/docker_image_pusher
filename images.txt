@@ -80,20 +80,22 @@
 #supabase/storage-api:v0.42.0
 #supabase/postgres-meta:v0.71.0
 
-supabase/studio:20240923-2e3e90c
-kong:2.8.1
-supabase/gotrue:v2.158.1
-postgrest/postgrest:v12.2.0
-supabase/realtime:v2.30.34
-supabase/storage-api:v1.10.1
-darthsim/imgproxy:v3.8.0
-supabase/postgres-meta:v0.83.2
-supabase/edge-runtime:v1.58.3
-supabase/logflare:1.4.0
-supabase/postgres:15.1.1.78
-timberio/vector:0.28.1-alpine
-supabase/supavisor:1.1.56
+#supabase/studio:20240923-2e3e90c
+#kong:2.8.1
+#supabase/gotrue:v2.158.1
+#postgrest/postgrest:v12.2.0
+#supabase/realtime:v2.30.34
+#supabase/storage-api:v1.10.1
+#darthsim/imgproxy:v3.8.0
+#supabase/postgres-meta:v0.83.2
+#supabase/edge-runtime:v1.58.3
+#supabase/logflare:1.4.0
+#supabase/postgres:15.1.1.78
+#timberio/vector:0.28.1-alpine
+#supabase/supavisor:1.1.56
 
+mysql:8.0
+neo4j:5-community
 
 
 
