@@ -94,8 +94,10 @@
 #timberio/vector:0.28.1-alpine
 #supabase/supavisor:1.1.56
 
-mysql:8.0
-neo4j:5-community
+#mysql:8.0
+#neo4j:5-community
+
+ghcr.io/moltbot/moltbot:main
 
 
 
