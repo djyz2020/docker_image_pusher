@@ -97,8 +97,7 @@
 #mysql:8.0
 #neo4j:5-community
 
-ghcr.io/moltbot/moltbot:main
-
+node:25-alpine
 
 
 
