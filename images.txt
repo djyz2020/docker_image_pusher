@@ -97,8 +97,7 @@
 #mysql:8.0
 #neo4j:5-community
 #node:25-alpine
+#openjdk:17.0.2-jdk
 
-openjdk:17.0.2-jdk
-
-
+nginx
 
