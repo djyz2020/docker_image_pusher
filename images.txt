@@ -98,7 +98,7 @@
 #neo4j:5-community
 #node:25-alpine
 
-openjdk:17-alpine
+eclipse-temurin:17-jdk-slim
 
 
 
