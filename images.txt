@@ -96,8 +96,9 @@
 
 #mysql:8.0
 #neo4j:5-community
+#node:25-alpine
 
-node:25-alpine
+openjdk:17
 
 
 
