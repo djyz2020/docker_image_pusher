@@ -98,7 +98,7 @@
 #neo4j:5-community
 #node:25-alpine
 
-openjdk:17-slim
+openjdk:17.0.2-jdk
 
 
 
