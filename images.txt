@@ -98,6 +98,7 @@
 #neo4j:5-community
 #node:25-alpine
 #openjdk:17.0.2-jdk
+#nginx
 
-nginx
-
+maven:3.9-eclipse-temurin-17
+eclipse-temurin:17-jre-alpine
