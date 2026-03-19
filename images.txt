@@ -99,6 +99,7 @@
 #node:25-alpine
 #openjdk:17.0.2-jdk
 #nginx
+#maven:3.9-eclipse-temurin-17
+#eclipse-temurin:17-jre-alpine
 
-maven:3.9-eclipse-temurin-17
-eclipse-temurin:17-jre-alpine
+3.12-slim
