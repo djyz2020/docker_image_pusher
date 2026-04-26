@@ -102,4 +102,4 @@
 #maven:3.9-eclipse-temurin-17
 #eclipse-temurin:17-jre-alpine
 
-oven/bun:latest
+ghcr.io/dayuanjiang/next-ai-draw-io:latest
