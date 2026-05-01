@@ -102,5 +102,5 @@
 #eclipse-temurin:17-jre-alpine
 #ghcr.io/dayuanjiang/next-ai-draw-io:latest
 #langgenius/dify-sandbox:0.2.11
-
-ubuntu/squid:latest
+#ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
