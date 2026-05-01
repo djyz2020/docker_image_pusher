@@ -103,4 +103,7 @@
 #ghcr.io/dayuanjiang/next-ai-draw-io:latest
 #langgenius/dify-sandbox:0.2.11
 #ubuntu/squid:latest
-semitechnologies/weaviate:1.19.0
+#semitechnologies/weaviate:1.19.0
+
+node:20-alpine3.20
+python:3.12-slim-bookworm
