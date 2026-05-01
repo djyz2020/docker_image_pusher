@@ -93,7 +93,6 @@
 #supabase/postgres:15.1.1.78
 #timberio/vector:0.28.1-alpine
 #supabase/supavisor:1.1.56
-
 #mysql:8.0
 #neo4j:5-community
 #node:25-alpine
@@ -101,7 +100,7 @@
 #nginx
 #maven:3.9-eclipse-temurin-17
 #eclipse-temurin:17-jre-alpine
-
 #ghcr.io/dayuanjiang/next-ai-draw-io:latest
+#langgenius/dify-sandbox:0.2.11
 
-langgenius/dify-sandbox:0.2.11
+ubuntu/squid:latest
