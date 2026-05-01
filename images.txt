@@ -102,4 +102,6 @@
 #maven:3.9-eclipse-temurin-17
 #eclipse-temurin:17-jre-alpine
 
-ghcr.io/dayuanjiang/next-ai-draw-io:latest
+#ghcr.io/dayuanjiang/next-ai-draw-io:latest
+
+langgenius/dify-sandbox:0.2.11
